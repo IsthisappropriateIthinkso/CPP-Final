@@ -8,6 +8,7 @@ If they choose to retire it displays your money and your multiplier and it print
 If they later decide to play again they can pick up where they left off.
 
 MAGIC
+ <a href ="https://youtu.be/1vQEjvRwmiQ"</a>
 
 This is My Magic Trick. You will start by putting a number between 0 and 15 in your head. Got one? Good, now on the next screen, you’ll have a set of a few cards Card A through Card D, if you’re number is on the set of cards, than input yes, if it’s not input no. 
 
